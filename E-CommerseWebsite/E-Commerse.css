@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ew-navbar-section-img {
+    height: 60px;
+
+}
+
+#ew-navbar-section-item1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+#ew-navbar-section-item2 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.ew-services-section-bg {
+    background-color: white;
+}
+
+.ew-services-section-h {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.ew-services-section-p {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    color: #616c7c;
+}
+
+.ew-services-section-card-img {
+    height: 80px;
+    width: 80px;
+}
+
+.ew-services-section-card-bg {
+    text-align: center;
+
+}
+
+.ew-services-section-card-h {
+    font-family: "Roboto";
+    font-size: 21px;
+    font-weight: normal;
+    color: #1f2933;
+}
+
+.ew-services-section-card-p {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: normal;
+    color: #7b8794;
+}
+
+#ew-navbar-section-item3 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+#ew-navbar-section-item4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+#ew-navbar-section-item5 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.ew-banner-section-bg {
+    height: 100%;
+}
+
+.ew-products-section-bg {
+    background-color: white;
+}
+
+.ew-products-section-h {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.ew-products-section-card-bg {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    width: 100%;
+    height: 328px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.ew-products-section-card-h {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+
+.ew-products-section-card-p {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+}
+
+.ew-products-section-card-button {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 14px;
+
+}
+
+.ew-products-section-card-bg2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    width: 100%;
+    height: 328px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.ew-products-section-card-f {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ew-offers-section-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+
+}
+
+.ew-offers-section-img {
+    width: 100%;
+}
+
+.ew-offers-section-h {
+    font-family: "Bree Serif";
+    font-size: 28px;
+    font-weight: 500;
+    color: #ad2167;
+}
+
+.ew-offers-section-p {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+
+}
+
+.ew-trendingblogs-section-bg {
+    background-color: white;
+}
+
+.ew-trendingblogs-section-h {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 35px;
+    color: #183b56;
+}
+
+.ew-trendingblogs-section-card-img {
+    width: 100%;
+}
+
+.ew-trendingblogs-section-card-h3 {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #959ead;
+}
+
+.ew-trendingblogs-section-card-h1 {
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.ew-trendingblogs-section-card-link {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    color: #ff9f00;
+}
+
+.ew-explore-section-bg {
+    background-color: #f5f7fa;
+}
+
+.ew-explore-section-h {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 33px;
+    color: #183b56;
+}
+
+.ew-explore-section-card-h {
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.ew-explore-section-card-img {
+    width: 90%;
+    border-radius: 20px;
+}
+
+.ew-explore-section-card-img1 {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.ew-explore-section-card-link {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.ew-contactus-section-bg {
+    background-color: #f5f7fa;
+}
+
+.ew-contactus-section-h {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 31px;
+    color: #183b56;
+}
+
+.ew-contactus-section-button {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #ff9f00;
+    height: 40px;
+    width: 140px;
+    background-color: white;
+    border-style: solid;
+    border-color: #ff9f00;
+}
+
+.ew-footer-section-bg {
+    background-color: #0d2436;
+}
+
+.ew-footer-section-img {
+    width: 50%;
+}
+
+.ew-footer-section-icon {
+    color: #5a7184;
+    font-size: 23px;
+}
+
+.ew-footer-section-icon-bg {
+    background-color: #152c3e;
+    height: 60px;
+    width: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 40px;
+}
+
+.ew-footer-section-p {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.ew-footer-section-card-h {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ew-footer-section-card-ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.ew-footer-section-card-li {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.ew-footer-section-hr {
+    background-color: #5a7184;
+    width: 100%;
+}
+
+table,
+td {
+    margin-top: 15px;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: orange;
+}
