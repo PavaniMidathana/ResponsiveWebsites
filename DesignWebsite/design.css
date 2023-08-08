@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.dw-navbar-section-bg {
+    background-color: #0c0521;
+}
+
+.dw-navbar-section-img {
+    width: 150px;
+}
+
+#nav-item1 {
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+#nav-item2 {
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+#nav-item3 {
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+#nav-item4 {
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+#nav-item5 {
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+.dw-banner-section-bg {
+    background-image: url('https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.dw-banner-section-h {
+    color: white;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.dw-banner-section-p {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.dw-banner-section-button {
+    height: 45px;
+    width: 180px;
+    color: #0c0521;
+    background-color: #FFDDA9;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.dw-logos-section-bg {
+    background-color: #f9fbfe;
+}
+
+.dw-logos-section-h {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #323f4b;
+    text-align: center;
+}
+
+.dw-logos-section-img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.dw-dd-section-bg {
+    background-color: white;
+}
+
+.dw-dd-section-img {
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.dw-dd-section-h {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 28px;
+    color: #323f4b;
+}
+
+.dw-dd-section-p {
+    font-family: "Roboto";
+    font-size: 19px;
+    color: #7b8794;
+}
+
+
+.dw-dd-section-bg {
+    background-color: white;
+}
+
+.dw-dd-section-h {
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 25px;
+    color: #323f4b;
+}
+
+.dw-dd-section-p {
+    font-family: "Roboto";
+    font-size: 17px;
+    color: #7b8794;
+}
+
+.dd-features-section-bg {
+    background-color: white;
+}
+
+.dd-features-section-h {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.dd-features-section-p {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #9aa5b1;
+}
+
+.dd-features-section-card-img {
+    width: 30%;
+}
+
+.dd-features-section-card-h {
+    font-family: "Roboto";
+    font-size: 23px;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.dd-features-section-card-p {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #9aa5b1;
+
+}
